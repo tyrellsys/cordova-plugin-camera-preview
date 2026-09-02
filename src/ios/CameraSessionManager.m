@@ -1,4 +1,5 @@
 #include "CameraSessionManager.h"
+#import <UIKit/UIKit.h>
 
 @implementation CameraSessionManager
 
